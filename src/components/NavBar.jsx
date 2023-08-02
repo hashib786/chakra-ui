@@ -1,7 +1,11 @@
-import React from "react";
+import { Box } from "@chakra-ui/react";
 
 const NavBar = () => {
-  return <div>NavBar</div>;
+  return (
+    <Box as="nav" w="270px">
+      hello
+    </Box>
+  );
 };
 
 export default NavBar;
