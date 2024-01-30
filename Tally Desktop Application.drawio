@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-30T09:08:27.680Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="_lu2J2yJwaQH10nU4sFV" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-30T09:08:50.435Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="jC7ahIk3rPXDQd1CpRcb" version="23.0.2" type="github">
   <diagram name="Page-1" id="nJylnroNrzdKfBT1kNII">
     <mxGraphModel dx="1730" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -201,7 +201,7 @@
         <mxCell id="NydhHh0NSFJVFC-VD1bs-54" value="Fetch Sales Order, item and Taxes (Modified TIme after Last Sync Time)" style="whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;rounded=1;shadow=1;gradientColor=#024036;direction=west;" vertex="1" parent="1">
           <mxGeometry x="1125" y="922.5" width="145" height="125" as="geometry" />
         </mxCell>
-        <mxCell id="NydhHh0NSFJVFC-VD1bs-56" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.85;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;fillColor=#d80073;strokeColor=#A50040;" edge="1" parent="1" source="NydhHh0NSFJVFC-VD1bs-54" target="NydhHh0NSFJVFC-VD1bs-28">
+        <mxCell id="NydhHh0NSFJVFC-VD1bs-56" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.85;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;fillColor=#d80073;strokeColor=#A50040;strokeWidth=2;" edge="1" parent="1" source="NydhHh0NSFJVFC-VD1bs-54" target="NydhHh0NSFJVFC-VD1bs-28">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1198" y="1080" />
